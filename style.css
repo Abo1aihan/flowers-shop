@@ -1,0 +1,46 @@
+.menu-wrapper{
+    width: 235px;
+    height: 1024px;
+    background-color: #1E1717;
+}
+.parameter{
+    
+    margin-left: 25px;
+}
+.peacock-wrapper{
+    margin-left: 49px;
+    display: block;
+    padding-top: 25px ;
+}
+.peacock1{
+    margin-left:18px ;
+    color:white;
+}
+.peacock{
+    margin-left:18px ;
+    color:white;
+}
+.home-wrapper{
+    display: block;
+    margin-bottom: 31px;
+}
+.home{
+    margin-left: 18px;
+    color: #EB1C24;
+}
+.community{
+    display: block;
+    margin-bottom: 31px;
+}
+.discover{
+    display: block;
+    margin-bottom: 31px;
+}
+.awards{
+    display: block;
+    margin-bottom: 31px;
+}
+.celebs{
+    display: block;
+    margin-bottom: 31px;
+}
