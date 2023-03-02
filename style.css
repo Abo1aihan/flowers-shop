@@ -13,8 +13,20 @@
     padding-top: 25px ;
 }
 .peacock1{
+    font-size: 20px;
     margin-left:18px ;
     color:white;
+}
+.menu-parametrs{
+    display: block;
+    margin-top: 29px;
+    margin-bottom: 24px;
+}
+.peacock2{
+    font-size: 18px;
+    margin-left:24px ;
+    color:white;
+    padding-top: 29px;
 }
 .peacock{
     margin-left:18px ;
@@ -43,4 +55,55 @@
 .celebs{
     display: block;
     margin-bottom: 31px;
+}
+.library{
+    padding-left: 4px;
+    display: block;
+    margin-bottom: 24px;
+}
+.recent{
+    padding-left: 22px;
+    display: block;
+    margin-bottom: 31px;
+}
+.rated{
+    padding-left: 22px;
+    display: block;
+    margin-bottom: 29px;
+}
+.downloaded{
+    padding-left: 22px;
+}
+.category{
+    padding-left: 2px;
+    display: block;
+    margin-top: 42px;
+    margin-bottom: 25px;
+}
+.tv-show{
+    display: block;
+    margin-bottom: 31px;
+    padding-left: 21px;
+}
+.movie{
+    display: block;
+    margin-bottom: 34px;
+    padding-left: 21px;
+}
+.anime{
+    padding-left: 21px;
+}
+.general{
+    padding-left: 2px;
+    display: block;
+    margin-top: 42px;
+    margin-bottom: 26px;
+}
+.settings{
+    display: block;
+    margin-bottom: 30px;
+    padding-left: 21px;
+}
+.log-out{
+    padding-left: 21px;
 }
