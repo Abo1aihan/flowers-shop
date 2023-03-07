@@ -1,6 +1,11 @@
+.background{
+    background-color: #0E0505;
+    display: flex;
+}
 .menu-wrapper{
+    display: inline-block;
     width: 235px;
-    height: 1024px;
+    height: 1050px;
     background-color: #1E1717;
 }
 .parameter{
@@ -86,7 +91,7 @@
     padding-left: 21px;
 }
 .movie{
-    display: block;
+    display: inline-block;
     margin-bottom: 34px;
     padding-left: 21px;
 }
@@ -106,4 +111,163 @@
 }
 .log-out{
     padding-left: 21px;
+}
+.center-wrapper{
+    display: inline-block;
+    height: 1050px;
+    width: 859px;
+}
+.category{
+    margin-left: 42px;
+    display: flex;
+    justify-content: space-between;
+    width: 232px;
+    height: 23px;
+}
+.moon{
+    width: 777px;
+    height: 318px;
+    margin-left: 42px;
+}
+.category-parametrs{
+    color: #DCDCDC;
+}
+.position-wrapper{
+    position: relative;
+}
+.position{
+    width: 267px;
+    height: 156px;
+    position: absolute;
+    color: white;
+    top:50px;
+    left: 89px;
+}
+.position-button{
+    color: white;
+    width: 150px;
+    height: 41px;
+    border-radius: 10px;
+    background-color: red;
+}
+.moon-pluses{
+    position: absolute;
+    left: 160px;
+    border-radius: 10px;
+}
+.position-parameter2{
+    font-size: 40px;
+    
+}
+.now-playing-wrapper{
+    margin-top: 35px;
+    margin-left: 42px;
+    align-items: center;
+    display: flex;
+    width: 777px;
+    height: 30px;
+}
+.now-playing{
+    font-size: 20px;
+    color: white;
+}
+.pointer{
+    
+    margin-left: 588px;
+}
+.pointer2{
+    margin-left: 20px;
+}
+.movies-wrapper{
+    margin-top: 27px;
+    margin-left: 42px;
+    width: 778px;
+    height: 167px;
+    display: flex;
+    justify-content: space-between;
+}
+.position2{
+    width: 41px;
+    height: 150px;
+    position: absolute;
+    top: 218px;
+    left: 18px;
+}
+.position3{
+    position: absolute;
+    bottom:310px;
+    left: 110px;
+}
+.now-playing-wrapper1{
+    margin-top: 147px;
+    margin-left: 42px;
+    align-items: center;
+    display: flex;
+    width: 777px;
+    height: 30px;
+}
+.now-playing1{
+    font-size: 20px;
+    color: white;
+}
+.pointer1{
+    
+    margin-left: 545px;
+}
+.pointer3{
+    margin-left: 20px;
+}
+.top-rated-movies{
+    margin-top: 27px;
+    margin-left: 42px;
+    width: 778px;
+    height: 167px;
+    display: flex;
+    justify-content: space-between;
+}
+.position4{
+    font-size: 20px;
+    width: 267px;
+    height: 156px;
+    position: absolute;
+    color: white;
+    top:130px;
+    left: 62px;
+}
+.grade{
+    width: 348;
+    height: 1040px;
+    background-color: #1E1717;
+}
+.search-form{
+    margin-left: 80px;
+    margin-top: 22px;
+    margin-left:;
+    border: 1px solid ;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.search{
+    z-index: 2;
+    border-radius:20px ;
+    border: none;
+    width: 240px;
+    height: 48px;
+    outline: none;
+    font-size: 16px;
+    
+    
+}
+.search-icons{
+    background-color: white;
+    border-radius: 20px;
+    left: 1124px;
+    z-index: 1;
+    position: absolute;
+    width: 90px;
+    height: 48px;
+    border: none;
+    
 }
